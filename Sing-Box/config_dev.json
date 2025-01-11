@@ -111,10 +111,6 @@
 		"filter": [{
 			"action": "include",
 			"keywords": ["🇺🇸|US|us|美国|美|United States"]
-		},
-		{
-			"action": "exclude",
-			"keywords": ["Russia|香港|港|HK|hk|HongKong|Hong Kong"]
 		}]
 	},
 	{
