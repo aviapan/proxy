@@ -134,7 +134,7 @@
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["Hong Kong"]
+			"keywords": ["冲浪猫"]
 		}]
 	},
 	{
@@ -143,7 +143,7 @@
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["HK"]
+			"keywords": ["淘气兔"]
 		}]
 	},
 	{
@@ -152,7 +152,7 @@
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["香港"]
+			"keywords": ["okgg"]
 		}],
 		"url": "http://www.gstatic.com/generate_204",
 		"interval": "10m",
