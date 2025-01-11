@@ -152,7 +152,7 @@
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["(?=.*香港)(?=.*okgg)"]
+			"keywords": ["okgg"]
 		}],
 		"url": "http://www.gstatic.com/generate_204",
 		"interval": "10m",
