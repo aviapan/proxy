@@ -134,7 +134,7 @@
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["冲浪猫"]
+			"keywords": ["香港", "冲浪猫"]
 		}]
 	},
 	{
