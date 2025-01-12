@@ -51,7 +51,7 @@ const nx = inArg.nx || false,
   numone = inArg.one || true,
   debug = inArg.debug || false,
   clear = inArg.clear || false,
-  addflag = inArg.flag || true,
+  addflag = inArg.flag || false,
   nm = inArg.nm || true;
 
 const FGF = inArg.fgf == undefined ? " " : decodeURI(inArg.fgf),
