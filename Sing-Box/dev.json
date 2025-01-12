@@ -27,7 +27,7 @@
 			"address": "https://dns.google/dns-query",
 			"address_resolver": "defaultDns",
 			"address_strategy": "ipv4_only",
-			"detour": "🚀 节点选择"
+			"detour": "🔰 节点选择"
 		},
 		{
 			"tag": "localDns",
@@ -91,24 +91,24 @@
 	}],
 
 	"outbounds": [{
-		"tag": "🚀 节点选择",
+		"tag": "🔰 节点选择",
 		"type": "selector",
-		"outbounds": ["🐱 冲浪猫", "🐰 淘气兔", "🌿 okgg", "🇭🇰 香港节点", "🇺🇲 美国节点", "🌿 免费节点", "🐸 手动切换", "🎯 全球直连"]
+		"outbounds": ["🐰 淘气兔", "😺 冲浪猫", "👌 okgg", "🇺🇲 美国节点", "🌿 免费节点", "👋 手动切换", "🎯 全球直连"]
 	},
 	{
 		"tag": "🤖 OpenAI",
 		"type": "selector",
-		"outbounds": ["🚀 节点选择", "🐱 冲浪猫", "🐰 淘气兔", "🌿 okgg", "🇭🇰 香港节点", "🇺🇲 美国节点", "🌿 免费节点", "🐸 手动切换"]
+		"outbounds": ["🔰 节点选择", "👋 手动切换"]
 	},
 	{
 		"tag": "📹 YouTube",
 		"type": "selector",
-		"outbounds": ["🚀 节点选择", "🐱 冲浪猫", "🐰 淘气兔", "🌿 okgg", "🇭🇰 香港节点", "🇺🇲 美国节点", "🌿 免费节点", "🐸 手动切换"]
+		"outbounds": ["🔰 节点选择", "👋 手动切换"]
 	},
 	{
 		"tag": "📲 Telegram",
 		"type": "selector",
-		"outbounds": ["🚀 节点选择", "🐱 冲浪猫", "🐰 淘气兔", "🌿 okgg", "🇭🇰 香港节点", "🇺🇲 美国节点", "🌿 免费节点", "🐸 手动切换"]
+		"outbounds": ["🔰 节点选择", "👋 手动切换"]
 	},
 	{
 		"tag": "🇭🇰 香港节点",
@@ -129,12 +129,39 @@
 		}]
 	},
 	{
-		"tag": "🐱 冲浪猫",
+		"tag": "🇰🇷 韩国节点",
 		"type": "selector",
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["香港.*冲浪猫"]
+			"keywords": ["🇰🇷|韩国|KR|Korea"]
+		}]
+	},
+	{
+		"tag": "🇯🇵 日本节点",
+		"type": "selector",
+		"outbounds": ["{all}"],
+		"filter": [{
+			"action": "include",
+			"keywords": ["🇯🇵|日本|JP|Japan"]
+		}]
+	},
+	{
+		"tag": "🇸🇬 狮城节点",
+		"type": "selector",
+		"outbounds": ["{all}"],
+		"filter": [{
+			"action": "include",
+			"keywords": ["🇸🇬|狮城|新加坡|SG|Singapore"]
+		}]
+	},
+	{
+		"tag": "😺 冲浪猫",
+		"type": "selector",
+		"outbounds": ["{all}"],
+		"filter": [{
+			"action": "include",
+			"keywords": ["😺.*香港"]
 		}]
 	},
 	{
@@ -143,20 +170,17 @@
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["香港.*淘气兔"]
+			"keywords": ["🐰.*香港"]
 		}]
 	},
 	{
-		"tag": "🌿 okgg",
-		"type": "urltest",
+		"tag": "👌 okgg",
+		"type": "selector",
 		"outbounds": ["{all}"],
 		"filter": [{
 			"action": "include",
-			"keywords": ["okgg"]
-		}],
-		"url": "http://www.gstatic.com/generate_204",
-		"interval": "10m",
-		"tolerance": 50
+			"keywords": ["(👌.*香港)|(👌.*韩国)|(👌.*日本)"]
+		}]
 	},
 	{
 		"tag": "🌿 免费节点",
@@ -174,15 +198,15 @@
 	{
 		"tag": "🐠 漏网之鱼",
 		"type": "selector",
-		"outbounds": ["🚀 节点选择", "🎯 全球直连"]
+		"outbounds": ["🔰 节点选择", "🎯 全球直连"]
 	},
 	{
-		"tag": "🐸 手动切换",
+		"tag": "👋 手动切换",
 		"type": "selector",
 		"outbounds": ["{all}"]
 	},
 	{
-		"tag": "GLOBAL",
+		"tag": "🌎 GLOBAL",
 		"type": "selector",
 		"outbounds": ["{all}"]
 	},
@@ -215,7 +239,7 @@
 		},
 		{
 			"clash_mode": "global",
-			"outbound": "GLOBAL"
+			"outbound": "🌎 GLOBAL"
 		},
 		{
 			"domain": ["nuaa.edu.cn"],
@@ -247,7 +271,7 @@
 		},
 		{
 			"rule_set": "geosite-geolocation-!cn",
-			"outbound": "🚀 节点选择"
+			"outbound": "🔰 节点选择"
 		},
 		{
 			"rule_set": ["geoip-cn", "geosite-cn"],
