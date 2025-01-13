@@ -93,7 +93,7 @@
 	"outbounds": [{
 		"tag": "🔰 节点选择",
 		"type": "selector",
-		"outbounds": ["🐰 淘气兔", "😺 冲浪猫", "🌿 免费节点", "👋 手动切换", "🎯 全球直连"]
+		"outbounds": ["🐰 淘气兔", "😺 冲浪猫", "👋 手动切换", "🎯 全球直连"]
 	},
 	{
 		"tag": "🤖 OpenAI",
@@ -171,15 +171,6 @@
 		"filter": [{
 			"action": "include",
 			"keywords": ["🐰.*香港"]
-		}]
-	},
-	{
-		"tag": "🌿 免费节点",
-		"type": "selector",
-		"outbounds": ["{all}"],
-		"filter": [{
-			"action": "include",
-			"keywords": ["Oracle|Cloudflare"]
 		}]
 	},
 	{
