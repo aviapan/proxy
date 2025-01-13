@@ -114,6 +114,7 @@ const rurekey = {
   波斯尼亚和黑塞哥维那: /波黑共和国/g,
   印尼: /印度尼西亚|雅加达|JakartaRaya/g,
   菲律宾: /马尼拉|MetroManila/g,
+  罗马尼亚: /Bucharest/g,
   印度: /孟买/g,
   阿联酋: /迪拜|阿拉伯联合酋长国/g,
   孟加拉国: /孟加拉|Bangladesh|Dhaka/g,
