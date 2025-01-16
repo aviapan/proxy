@@ -94,8 +94,16 @@
 		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Emby.png"
 	},
 	{
-		"name": "Final",
-		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Final.png"
+		"name": "Fallback",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Fallback.png"
+	},
+	{
+		"name": "Final_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Final_1.png"
+	},
+	{
+		"name": "Final_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Final_2.png"
 	},
 	{
 		"name": "ForeignMedia",
@@ -208,6 +216,14 @@
 	{
 		"name": "Rabbit",
 		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Rabbit.png"
+	},
+	{
+		"name": "Shadowrocket",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Shadowrocket.png"
+	},
+	{
+		"name": "Sing-Box",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Sing-Box.png"
 	},
 	{
 		"name": "SG_Letter",
