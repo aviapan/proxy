@@ -245,7 +245,7 @@
 		},
 		{
 			"domain": ["jable.tv", "stripchat.com"],
-			"outbound": "🇺🇲 美国节点"
+			"outbound": "💤 国外媒体"
 		},
 		{
 			"rule_set": ["geosite-private", "geoip-private"],
