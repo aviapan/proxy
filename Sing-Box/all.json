@@ -244,6 +244,10 @@
 			"outbound": "🇺🇲 美国节点"
 		},
 		{
+			"domain": ["jable.tv", "stripchat.com"],
+			"outbound": "🇺🇲 美国节点"
+		},
+		{
 			"rule_set": ["geosite-private", "geoip-private"],
 			"outbound": "🎯 全球直连"
 		},
