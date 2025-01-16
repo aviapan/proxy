@@ -1,0 +1,75 @@
+DOMAIN,api.imem.app
+DOMAIN,api.swiftgram.app
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,mbrx.app
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX-cdn.org
+DOMAIN-SUFFIX.dog
+DOMAIN-SUFFIX.me
+DOMAIN-SUFFIX.org
+DOMAIN-SUFFIX.space
+DOMAIN-SUFFIXdownload.com
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-KEYWORD,nicegram
+
+# VOD AV源
+# Stripchat
+DOMAIN-SUFFIX, stripchat.com
+# 91Jav
+DOMAIN-SUFFIX, 91jav.fun
+DOMAIN, 041.bndmpsjx.com
+# AVDB
+DOMAIN-SUFFIX, avdbapi.com
+# AV Today
+DOMAIN-SUFFIX, avtoday.io
+# Hanime1.me
+DOMAIN-SUFFIX, hanime1.me
+# HoHoJ
+DOMAIN-SUFFIX, hohoj.tv
+# Jable
+DOMAIN-SUFFIX, jable.tv
+# KoreaPornMovie
+DOMAIN-SUFFIX, koreanpornmovie.com
+# MissAV
+DOMAIN-SUFFIX, missav.com
+DOMAIN-SUFFIX, missav.ws
+# Pornhub
+DOMAIN-SUFFIX, pornhub.com
+# PPP Porn
+DOMAIN-SUFFIX, ppp.porn
+# SubJav
+DOMAIN-SUFFIX, supjav.com
+# xHamster
+DOMAIN-SUFFIX, xhamster.com
+# 花都影视
+DOMAIN-SUFFIX, huaduys.org
+# 麻豆社
+DOMAIN-SUFFIX, madou.club
+# 肉视频
+DOMAIN-SUFFIX, rou.video
+# 黄色仓库
+DOMAIN-SUFFIX, 7341hsck.cc
+# 桃花族
+DOMAIN-SUFFIX, 822thz.com
+# 玩偶姐姐
+DOMAIN-SUFFIX, hongkongdollvideo.com
+# 有爱爱
+DOMAIN-SUFFIX, uaa.com
+# Taiav
+DOMAIN-SUFFIX, taiav.com
+# JAVMove
+DOMAIN-SUFFIX, javmove.com
+# PandaTV
+DOMAIN-SUFFIX, pandalive.co.kr
