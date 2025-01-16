@@ -1,0 +1,304 @@
+{
+	"name": "IconSet",
+	"description": "IconSet",
+	"icons": [{
+		"name": "Adblock_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Adblock_1.png"
+	},
+	{
+		"name": "AdBlock_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/AdBlock_2.png"
+	},
+	{
+		"name": "AdBlock_3",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/AdBlock_3.png"
+	},
+	{
+		"name": "AdWhite",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/AdWhite.png"
+	},
+	{
+		"name": "AI",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/AI.png"
+	},
+	{
+		"name": "Apple_Music",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Apple_Music.png"
+	},
+	{
+		"name": "Apple",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Apple.png"
+	},
+	{
+		"name": "Auto_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Auto_1.png"
+	},
+	{
+		"name": "Auto_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Auto_2.png"
+	},
+	{
+		"name": "Bilibili",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Bilibili.png"
+	},
+	{
+		"name": "Bing",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Bing.png"
+	},
+	{
+		"name": "Cellular",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Cellular.png"
+	},
+	{
+		"name": "China_Map",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/China_Map.png"
+	},
+	{
+		"name": "Cloudflare",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Cloudflare.png"
+	},
+	{
+		"name": "Clubhouse_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Clubhouse_2.png"
+	},
+	{
+		"name": "Clubhouse",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Clubhouse.png"
+	},
+	{
+		"name": "CN_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/CN_Letter.png"
+	},
+	{
+		"name": "CN_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/CN_mini.png"
+	},
+	{
+		"name": "CN",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/CN.png"
+	},
+	{
+		"name": "Copilot",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Copilot.png"
+	},
+	{
+		"name": "Direct",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Direct.png"
+	},
+	{
+		"name": "Element",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Element.png"
+	},
+	{
+		"name": "Emby",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Emby.png"
+	},
+	{
+		"name": "Final",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Final.png"
+	},
+	{
+		"name": "ForeignMedia",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/ForeignMedia.png"
+	},
+	{
+		"name": "Gemini_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Gemini_1.png"
+	},
+	{
+		"name": "Gemini_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Gemini_2.png"
+	},
+	{
+		"name": "Gemini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Gemini.png"
+	},
+	{
+		"name": "Hand",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Hand.png"
+	},
+	{
+		"name": "HBO",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/HBO.png"
+	},
+	{
+		"name": "HK_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/HK_Letter.png"
+	},
+	{
+		"name": "HK_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/HK_mini.png"
+	},
+	{
+		"name": "HK",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/HK.png"
+	},
+	{
+		"name": "Hulu",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Hulu.png"
+	},
+	{
+		"name": "Infuse_7",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Infuse_7.png"
+	},
+	{
+		"name": "Infuse",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Infuse.png"
+	},
+	{
+		"name": "JP_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/JP_Letter.png"
+	},
+	{
+		"name": "JP_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/JP_mini.png"
+	},
+	{
+		"name": "JP",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/JP.png"
+	},
+	{
+		"name": "KR_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/KR_Letter.png"
+	},
+	{
+		"name": "KR_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/KR_mini.png"
+	},
+	{
+		"name": "KR",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/KR.png"
+	},
+	{
+		"name": "Luffy",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Luffy.png"
+	},
+	{
+		"name": "Magic",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Magic.png"
+	},
+	{
+		"name": "NaughtyRabbit",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/NaughtyRabbit.png"
+	},
+	{
+		"name": "Netflix_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Netflix_Letter.png"
+	},
+	{
+		"name": "Netflix",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Netflix.png"
+	},
+	{
+		"name": "OpenAI_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/OpenAI_1.png"
+	},
+	{
+		"name": "OpenAI_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/OpenAI_2.png"
+	},
+	{
+		"name": "Oracle",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Oracle.png"
+	},
+	{
+		"name": "Prpr",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Prpr.png"
+	},
+	{
+		"name": "Rabbit",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Rabbit.png"
+	},
+	{
+		"name": "SG_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/SG_Letter.png"
+	},
+	{
+		"name": "SG_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/SG_mini.png"
+	},
+	{
+		"name": "SG",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/SG.png"
+	},
+	{
+		"name": "Skicat",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Skicat.png"
+	},
+	{
+		"name": "Spotify_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Spotify_1.png"
+	},
+	{
+		"name": "Spotify_2",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Spotify_2.png"
+	},
+	{
+		"name": "Static_1",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Static_1.png"
+	},
+	{
+		"name": "Static",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Static.png"
+	},
+	{
+		"name": "SubStore",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/SubStore.png"
+	},
+	{
+		"name": "Suda",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Suda.png"
+	},
+	{
+		"name": "SurfCat",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/SurfCat.png"
+	},
+	{
+		"name": "Surge",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Surge.png"
+	},
+	{
+		"name": "Telegram",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Telegram.png"
+	},
+	{
+		"name": "TW_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/TW_Letter.png"
+	},
+	{
+		"name": "TW_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/TW_mini.png"
+	},
+	{
+		"name": "TW",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/TW.png"
+	},
+	{
+		"name": "US_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/US_Letter.png"
+	},
+	{
+		"name": "US_mini",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/US_mini.png"
+	},
+	{
+		"name": "US",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/US.png"
+	},
+	{
+		"name": "Vpn",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/Vpn.png"
+	},
+	{
+		"name": "WeChat",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/WeChat.png"
+	},
+	{
+		"name": "YouTube_Letter",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/YouTube_Letter.png"
+	},
+	{
+		"name": "YouTube",
+		"url": "https://raw.githubusercontent.com/aviapan/proxy/main/Icon/YouTube.png"
+	}]
+}
