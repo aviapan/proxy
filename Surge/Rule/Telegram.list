@@ -1,4 +1,4 @@
-PROCESS-NAME,org.telegram.messenger //🆕
+PROCESS-NAME,org.telegram.messenger
 PROCESS-NAME,Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tx.me
@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,comments.app // 🆕comments.app
-IP-CIDR,91.108.0.0/16,no-resolve // eTelecom_Customers_NAT_Network
+DOMAIN-SUFFIX,comments.app
+IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/22,no-resolve
 IP-CIDR,91.108.12.0/22,no-resolve
@@ -18,21 +18,72 @@ IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve // Telegram Messenger LLP
-IP-CIDR,5.28.195.205/32,no-resolve // IPFFM - Internet Provider Frankfurt GmbH
-IP-CIDR,5.28.195.163/32,no-resolve //Germany - Hesse - Frankfurt am Main / AS1273
-IP-CIDR,5.28.195.37/32,no-resolve //Germany - Hesse - Frankfurt am Main / AS1273
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,5.28.195.205/32,no-resolve
+IP-CIDR,5.28.195.163/32,no-resolve
+IP-CIDR,5.28.195.37/32,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-IP-ASN,44907,no-resolve // Telegram Messenger Inc
-IP-ASN,62041,no-resolve // Telegram Messenger Inc
-IP-ASN,62014,no-resolve // Telegram Messenger Inc
-IP-ASN,59930,no-resolve // Telegram Messenger Inc
-IP-ASN,211157,no-resolve // Telegram Messenger Inc
+IP-ASN,44907,no-resolve
+IP-ASN,62041,no-resolve
+IP-ASN,62014,no-resolve
+IP-ASN,59930,no-resolve
+IP-ASN,211157,no-resolve
 
 DOMAIN-SUFFIX,jable.tv
+
 DOMAIN-SUFFIX,stripchat.com
+DOMAIN,img.strpst.com
+DOMAIN,assets.strpst.com
+
+DOMAIN-SUFFIX, stripchat.com
+
+DOMAIN-SUFFIX, 91jav.fun
+DOMAIN, 041.bndmpsjx.com
+
+DOMAIN-SUFFIX, avdbapi.com
+
+DOMAIN-SUFFIX, avtoday.io
+
+DOMAIN-SUFFIX, hanime1.me
+
+DOMAIN-SUFFIX, hohoj.tv
+
+DOMAIN-SUFFIX, jable.tv
+
+DOMAIN-SUFFIX, koreanpornmovie.com
+
+DOMAIN-SUFFIX, missav.com
+DOMAIN-SUFFIX, missav.ws
+
+DOMAIN-SUFFIX, pornhub.com
+
+DOMAIN-SUFFIX, ppp.porn
+
+DOMAIN-SUFFIX, supjav.com
+
+DOMAIN-SUFFIX, xhamster.com
+
+DOMAIN-SUFFIX, huaduys.org
+
+DOMAIN-SUFFIX, madou.club
+
+DOMAIN-SUFFIX, rou.video
+
+DOMAIN-SUFFIX, 7341hsck.cc
+
+DOMAIN-SUFFIX, 822thz.com
+
+DOMAIN-SUFFIX, hongkongdollvideo.com
+
+DOMAIN-SUFFIX, uaa.com
+
+DOMAIN-SUFFIX, taiav.com
+
+DOMAIN-SUFFIX, javmove.com
+
+DOMAIN-SUFFIX, pandalive.co.kr
