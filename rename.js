@@ -123,7 +123,7 @@ const rurekey = {
   Taiwan: /Taipei/g,
   韩国: /春川|韩|首尔/g,
   Japan: /Tokyo|Osaka/g,
-  英国: /伦敦/g,
+  英国: /伦敦|England|UnitedKingdom/g,
   India: /Mumbai/g,
   Germany: /Frankfurt/g,
   Switzerland: /Zurich/g,
