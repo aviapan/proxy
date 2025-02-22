@@ -1,0 +1,64 @@
+# OpenAI
+# > ChatGPT
+DOMAIN-SUFFIX,chatgpt.com,OpenAI
+DOMAIN-SUFFIX,oaistatic.com,OpenAI
+DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN,api.statsig.com,OpenAI
+DOMAIN,api-iam.intercom.io,OpenAI
+DOMAIN,chatgpt.livekit.cloud,OpenAI
+DOMAIN,o33249.ingest.sentry.io,OpenAI
+DOMAIN,openaiapi-site.azureedge.net,OpenAI
+DOMAIN,sfo3.turn.livekit.cloud,OpenAI
+DOMAIN-KEYWORD,openaicom,OpenAI
+
+# Apple Intelligence
+DOMAIN-SUFFIX,smoot.apple.com,OpenAI
+DOMAIN,apple-relay.apple.com,OpenAI
+DOMAIN,apple-relay.cloudflare.com,OpenAI
+DOMAIN,apple-relay.fastly-edge.com,OpenAI
+DOMAIN,cp4.cloudflare.com,OpenAI
+DOMAIN,guzzoni.apple.com,OpenAI
+
+# Anthropic
+# > Claude
+DOMAIN-SUFFIX,claude.ai,OpenAI
+DOMAIN-SUFFIX,anthropic.com,OpenAI
+
+# Google
+# > Gemini
+DOMAIN,ai.google.dev,OpenAI
+DOMAIN,bard.google.com,OpenAI
+DOMAIN,gemini.google.com,OpenAI
+DOMAIN,generativelanguage.googleapis.com,OpenAI
+DOMAIN,proactivebackend-pa.googleapis.com,OpenAI
+# > AI Studio
+DOMAIN,aistudio.google.com,OpenAI
+DOMAIN,alkalimakersuite-pa.clients6.google.com,OpenAI
+# > Search Labs
+DOMAIN-KEYWORD,labs.google,OpenAI
+# > NotebookLM
+DOMAIN-KEYWORD,notebooklm.google,OpenAI
+
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai,OpenAI
+
+# Microsoft
+# > Copilot
+DOMAIN,copilot.microsoft.com,OpenAI
+DOMAIN,sydney.bing.com,OpenAI
+DOMAIN,www.bing.com,OpenAI
+
+# Meta
+DOMAIN,imagine.meta.com,OpenAI
+
+# GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com,OpenAI
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai,OpenAI
+DOMAIN-SUFFIX,pplx.ai,OpenAI
+
+# Cloudflare
+# > AI Gateway
+DOMAIN,gateway.ai.cloudflare.com
