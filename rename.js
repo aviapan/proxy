@@ -42,17 +42,17 @@
 // const inArg = {'blkey':'iplc+GPT>GPTnewName+NF+IPLC', 'flag':true };
 const inArg = $arguments; // console.log(inArg)
 const nx = inArg.nx || false,
-  bl = inArg.bl || false,
+  bl = inArg.bl || true,
   nf = inArg.nf || false,
-  key = inArg.key || false,
-  blgd = inArg.blgd || false,
-  blpx = inArg.blpx || false,
+  key = inArg.key || true,
+  blgd = inArg.blgd || true,
+  blpx = inArg.blpx || true,
   blnx = inArg.blnx || false,
-  numone = inArg.one || false,
+  numone = inArg.one || true,
   debug = inArg.debug || false,
   clear = inArg.clear || false,
   addflag = inArg.flag || false,
-  nm = inArg.nm || true;
+  nm = inArg.nm || false;
 
 const FGF = inArg.fgf == undefined ? " " : decodeURI(inArg.fgf),
   XHFGF = inArg.sn == undefined ? " " : decodeURI(inArg.sn),
@@ -95,7 +95,7 @@ const keya =
 const keyb =
   /(((1|2|3|4)\d)|(香港|Hong|HK) 0[5-9]|((新加坡|SG|Singapore|日本|Japan|JP|美国|United States|US|韩|土耳其|TR|Turkey|Korea|KR) 0[3-9]))/i;
 const rurekey = {
-  GB: /UK|UnitedKindom|England/g,
+  GB: /UK/g,
   "B-G-P": /BGP/g,
   "Russia Moscow": /Moscow/g,
   "Korea Chuncheon": /Chuncheon|Seoul/g,
@@ -109,7 +109,7 @@ const rurekey = {
   香港: /(深|沪|呼|京|广|杭)港(?!.*(I|线))/g,
   日本: /(深|沪|呼|京|广|杭|中|辽)日(?!.*(I|线))|东京|大坂/g,
   新加坡: /狮城|(深|沪|呼|京|广|杭)新/g,
-  美国: /(深|沪|呼|京|广|杭)美|波特兰|芝加哥|哥伦布|纽约|硅谷|俄勒冈|西雅图|芝加哥|UnitedStates/g,
+  美国: /(深|沪|呼|京|广|杭)美|波特兰|芝加哥|哥伦布|纽约|硅谷|俄勒冈|西雅图|芝加哥/g,
   波斯尼亚和黑塞哥维那: /波黑共和国/g,
   印尼: /印度尼西亚|雅加达/g,
   印度: /孟买/g,
@@ -120,7 +120,7 @@ const rurekey = {
   Taiwan: /Taipei/g,
   韩国: /春川|韩|首尔/g,
   Japan: /Tokyo|Osaka/g,
-  英国: /伦敦|UnitedKindom|England/g,
+  英国: /伦敦/g,
   India: /Mumbai/g,
   Germany: /Frankfurt/g,
   Switzerland: /Zurich/g,
@@ -295,7 +295,7 @@ function operator(pro) {
 }
 
 // prettier-ignore
-function getList(arg) { switch (arg) { case 'us': return EN; case 'gq': return FG; case 'quan': return QC; default: return ZH; }}
+function getList(arg) { switch (arg) { case 'us': return EN; case 'gq': return FG; case 'quan': return QC; default: return EN; }}
 // prettier-ignore
 function jxh(e) { const n = e.reduce((e, n) => { const t = e.find((e) => e.name === n.name); if (t) { t.count++; t.items.push({ ...n, name: `${n.name}${XHFGF}${t.count.toString().padStart(2, "0")}`, }); } else { e.push({ name: n.name, count: 1, items: [{ ...n, name: `${n.name}${XHFGF}01` }], }); } return e; }, []);const t=(typeof Array.prototype.flatMap==='function'?n.flatMap((e) => e.items):n.reduce((acc, e) => acc.concat(e.items),[])); e.splice(0, e.length, ...t); return e;}
 // prettier-ignore
