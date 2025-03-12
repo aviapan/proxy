@@ -241,41 +241,41 @@
 			"url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-chat-!cn.srs",
 			"download_detour": "🎯 全球直连"
 		},
-    {
-      "tag": "AI-IP",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/AI/AI-IP.srs",
-      "download_detour": "🎯 全球直连"
-    },
-    {
-      "tag": "AI-Site",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/AI/AI-Site.srs",
-      "download_detour": "🎯 全球直连"
-    },
-    {
-        "tag": "StreamingMedia-IP",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/StreamingMedia/StreamingMedia-IP.srs",
-        "download_detour": "Direct"
-    },
-		{
+    	{
+      		"tag": "AI-IP",
+	      	"type": "remote",
+	      	"format": "binary",
+	      	"url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/AI/AI-IP.srs",
+	      	"download_detour": "🎯 全球直连"
+    	},
+    	{
+	      	"tag": "AI-Site",
+	      	"type": "remote",
+		      "format": "binary",
+		      "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/AI/AI-Site.srs",
+		      "download_detour": "🎯 全球直连"
+	    },
+	    {
+	        "tag": "StreamingMedia-IP",
+	        "type": "remote",
+	        "format": "binary",
+	        "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/StreamingMedia/StreamingMedia-IP.srs",
+	        "download_detour": "🎯 全球直连"
+	    },
+	    {
 			"tag": "StreamingMedia-Site",
 			"type": "remote",
 			"format": "binary",
 			"url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/StreamingMedia/StreamingMedia-Site.srs",
 			"download_detour": "🎯 全球直连"
-		},
-    {
-      "tag": "Messages-IP",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/Messages/Messages-IP.srs",
-      "download_detour": "Direct"
-    },
+    	},
+	    {
+		    "tag": "Messages-IP",
+		    "type": "remote",
+		    "format": "binary",
+		    "url": "https://cdn.jsdmirror.com/gh/HosheaPDNX/rule-set@V1.1.2/sing-box/V3/Messages/Messages-IP.srs",
+		    "download_detour": "🎯 全球直连"
+	    },
 		{
 			"tag": "Messages-Site",
 			"type": "remote",
